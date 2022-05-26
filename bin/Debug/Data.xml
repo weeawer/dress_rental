@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Data>
+  <User login="david">
+    <password>popov</password>
+  </User>
+  <User login="popov">
+    <password>david</password>
+  </User>
+  <User login="111111">
+    <password>222222</password>
+  </User>
+  <AddService>
+    <id>0</id>
+    <name>Доставка</name>
+    <price>500</price>
+  </AddService>
+  <AddService id="1">
+    <name>Индивидуальная нашивка</name>
+    <price>2000</price>
+  </AddService>
+  <AddService id="2">
+    <name>Обувь</name>
+    <price>1000</price>
+  </AddService>
+  <AddService id="3">
+    <name>Нарукавники</name>
+    <price>1000</price>
+  </AddService>
+  <Client id="1">
+    <fio>Порошенко Алина Степановна</fio>
+  </Client>
+  <Client id="2">
+    <fio>Иванова Ирина Андреевна</fio>
+  </Client>
+  <Client id="3">
+    <fio>Солнцева Любовь Сергеевна</fio>
+  </Client>
+  <Client id="4">
+    <fio>Лукашенко Августина Фёдоровна</fio>
+  </Client>
+  <Client id="5">
+    <fio>Дурова Елена Евлопиевна</fio>
+  </Client>
+  <Dress id="0">
+    <model>Стиль "А"</model>
+    <price>5000</price>
+    <deposit>5000</deposit>
+  </Dress>
+  <Dress id="1">
+    <model>Ампир</model>
+    <price>3000</price>
+    <deposit>5000</deposit>
+  </Dress>
+  <Dress id="2">
+    <model>Пышное</model>
+    <price>2000</price>
+    <deposit>5000</deposit>
+  </Dress>
+  <Dress id="3">
+    <model>Прямое</model>
+    <price>8000</price>
+    <deposit>10000</deposit>
+  </Dress>
+  <Dress id="4">
+    <model>Русалка</model>
+    <price>7000</price>
+    <deposit>10000</deposit>
+  </Dress>
+  <Rents>
+    <Rent>
+      <id>1</id>
+      <ClientID>1</ClientID>
+      <DressID>0</DressID>
+      <ClientNumber>+79233758432</ClientNumber>
+      <price>4000</price>
+      <deposit>5000</deposit>
+      <period>5</period>
+      <addservices>23</addservices>
+    </Rent>
+    <Rent>
+      <id>2</id>
+      <ClientID>2</ClientID>
+      <DressID>1</DressID>
+      <ClientNumber>+79274639574</ClientNumber>
+      <price>13000</price>
+      <deposit>10000</deposit>
+      <period>16</period>
+      <addservices>023</addservices>
+    </Rent>
+    <Rent>
+      <id>3</id>
+      <ClientID>3</ClientID>
+      <DressID>4</DressID>
+      <ClientNumber>+79401274363</ClientNumber>
+      <price>6000</price>
+      <deposit>7000</deposit>
+      <period>6</period>
+      <addservices>0</addservices>
+    </Rent>
+    <Rent>
+      <id>4</id>
+      <ClientID>4</ClientID>
+      <DressID>0</DressID>
+      <ClientNumber>+79473640264</ClientNumber>
+      <price>10000</price>
+      <deposit>15000</deposit>
+      <period>11</period>
+      <addservices>0123</addservices>
+    </Rent>
+    <Rent>
+      <id>5</id>
+      <ClientID>5</ClientID>
+      <DressID>3</DressID>
+      <ClientNumber>+79548621549</ClientNumber>
+      <price>7000</price>
+      <deposit>5000</deposit>
+      <period>2</period>
+      <addservices>13</addservices>
+    </Rent>
+    <Rent>
+      <id>6</id>
+      <ClientID>1</ClientID>
+      <DressID>3</DressID>
+      <ClientNumber>+79146667483</ClientNumber>
+      <price>0</price>
+      <deposit>10000</deposit>
+      <period>9</period>
+      <addservices>0</addservices>
+    </Rent>
+    <Rent>
+      <id>7</id>
+      <ClientID>1</ClientID>
+      <DressID>0</DressID>
+      <ClientNumber>9090999-00009--990--</ClientNumber>
+      <price>0</price>
+      <deposit>243324</deposit>
+      <period>1</period>
+      <addservices>
+      </addservices>
+    </Rent>
+  </Rents>
+</Data>

@@ -1,0 +1,23 @@
+C:\Users\danil\OneDrive\Рабочий стол\Programs\Labs\Lab10_rent_a_car\Lab10_rent_a_car\bin\Debug\Lab10_rent_a_car.exe.config
+C:\Users\danil\OneDrive\Рабочий стол\Programs\Labs\Lab10_rent_a_car\Lab10_rent_a_car\bin\Debug\Lab10_rent_a_car.exe
+C:\Users\danil\OneDrive\Рабочий стол\Programs\Labs\Lab10_rent_a_car\Lab10_rent_a_car\bin\Debug\Lab10_rent_a_car.pdb
+C:\Users\danil\OneDrive\Рабочий стол\Programs\Labs\Lab10_rent_a_car\Lab10_rent_a_car\obj\Debug\Lab10_rent_a_car.csprojAssemblyReference.cache
+C:\Users\danil\OneDrive\Рабочий стол\Programs\Labs\Lab10_rent_a_car\Lab10_rent_a_car\obj\Debug\Lab10_rent_a_car.Form1.resources
+C:\Users\danil\OneDrive\Рабочий стол\Programs\Labs\Lab10_rent_a_car\Lab10_rent_a_car\obj\Debug\Lab10_rent_a_car.Properties.Resources.resources
+C:\Users\danil\OneDrive\Рабочий стол\Programs\Labs\Lab10_rent_a_car\Lab10_rent_a_car\obj\Debug\Lab10_rent_a_car.csproj.GenerateResource.cache
+C:\Users\danil\OneDrive\Рабочий стол\Programs\Labs\Lab10_rent_a_car\Lab10_rent_a_car\obj\Debug\Lab10_rent_a_car.exe
+C:\Users\danil\OneDrive\Рабочий стол\Programs\Labs\Lab10_rent_a_car\Lab10_rent_a_car\obj\Debug\Lab10_rent_a_car.pdb
+C:\Users\danil\OneDrive\Рабочий стол\Programs\Labs\Lab10_rent_a_car\Lab10_rent_a_car\obj\Debug\Lab10_rent_a_car.ClientForm.resources
+C:\Users\danil\OneDrive\Рабочий стол\Programs\Labs\Lab10_rent_a_car\Lab10_rent_a_car\obj\Debug\Lab10_rent_a_car.ClientsList.resources
+C:\Users\debil\Downloads\Попкоjjd\Lab10_rent_a_car\Lab10_rent_a_car\bin\Debug\Lab10_rent_a_car.exe.config
+C:\Users\debil\Downloads\Попкоjjd\Lab10_rent_a_car\Lab10_rent_a_car\bin\Debug\Lab10_rent_a_car.exe
+C:\Users\debil\Downloads\Попкоjjd\Lab10_rent_a_car\Lab10_rent_a_car\bin\Debug\Lab10_rent_a_car.pdb
+C:\Users\debil\Downloads\Попкоjjd\Lab10_rent_a_car\Lab10_rent_a_car\obj\Debug\Lab10_rent_a_car.csprojAssemblyReference.cache
+C:\Users\debil\Downloads\Попкоjjd\Lab10_rent_a_car\Lab10_rent_a_car\obj\Debug\Lab10_rent_a_car.Form1.resources
+C:\Users\debil\Downloads\Попкоjjd\Lab10_rent_a_car\Lab10_rent_a_car\obj\Debug\Lab10_rent_a_car.ClientForm.resources
+C:\Users\debil\Downloads\Попкоjjd\Lab10_rent_a_car\Lab10_rent_a_car\obj\Debug\Lab10_rent_a_car.ClientsList.resources
+C:\Users\debil\Downloads\Попкоjjd\Lab10_rent_a_car\Lab10_rent_a_car\obj\Debug\Lab10_rent_a_car.Properties.Resources.resources
+C:\Users\debil\Downloads\Попкоjjd\Lab10_rent_a_car\Lab10_rent_a_car\obj\Debug\Lab10_rent_a_car.csproj.GenerateResource.cache
+C:\Users\debil\Downloads\Попкоjjd\Lab10_rent_a_car\Lab10_rent_a_car\obj\Debug\Lab10_rent_a_car.csproj.CoreCompileInputs.cache
+C:\Users\debil\Downloads\Попкоjjd\Lab10_rent_a_car\Lab10_rent_a_car\obj\Debug\Lab10_rent_a_car.exe
+C:\Users\debil\Downloads\Попкоjjd\Lab10_rent_a_car\Lab10_rent_a_car\obj\Debug\Lab10_rent_a_car.pdb
